@@ -6,7 +6,7 @@ Repositorio que usarei para upar estudos de Javascript afim explorar meus conhec
 Como o intuito desse repositorio é exatamente deixar meus estudos, achei justo compartilhar a forma e as ferramentas que eu uso para me desenvolver.
 </h4> 
 
-<h3><a href="https://roadmap.sh/javascript" target="_blank">-- Roadmap.sh --</h3>
+<h3><a href="https://roadmap.sh/javascript" target="_blank">-- Roadmap.sh --</a></h3>
 <h4> Simplesmente o roadmap mais completo de JS ou de outras linguagens, se JS não for o seu foco por exemplo tem mapa estudo de diversas linguagens e também de carreias prontas como Front-End e Back-End. </h4>
 
 <h3><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">-- JS Documentation --</h3>
