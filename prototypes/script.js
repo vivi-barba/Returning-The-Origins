@@ -3,13 +3,13 @@ function Person(name, age) {
   this.age = age;
 }
 
-// Adding a method to the Person prototype
+// Adicionando um método ao protótipo Person
 Person.prototype.greet = function() {
-  console.log(`Hello, my name is ${this.name} and I'm ${this.age} years old.`);
+  console.log(`Oi, nome é  ${this.name} e eu tenho ${this.age} anos.`);
 }
 
-// Creating a new Person object
-const john = new Person('John', 25);
+// criando um objeto e setando os dados
+const victoria = new Person('Victoria', 21);
 
-// Calling the greet() method on the john object
-john.greet(); // Output: "Hello, my name is John and I'm 25 years old."
+// chamando greet() metodo trazendo os dados do objeto declarado na const victoria
+victoria.greet(); // Output: "Oi, nome é  Victoria e eu tenho 21 anos."
