@@ -1,11 +1,5 @@
 //#refatorando imc
 
-// var peso = 130;
-//var altura = 1.72;
-
-//var imc = peso / (altura * altura);
-//console.log(imc.toFixed(2));
-
 function calculoImc(altura, peso) {
   return peso / (altura * altura);
 }
